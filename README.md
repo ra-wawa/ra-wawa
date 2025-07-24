@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ra-wawa
-- 👀 I’m interested in cheats
-- 🌱 I’m currently learning C# and lua
-- 💞️ I’m looking to collaborate on gorilla tag mod menus, any trusted cheats
-- 📫 How to reach me: Discord: wwaawwaa
+- 📫 How to reach me: Discord: wawaxiix
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like dudes
 
